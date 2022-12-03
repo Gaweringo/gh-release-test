@@ -11,5 +11,5 @@ edition = "2021"
 pre-release-hook = ["git-cliff", "-t", "{{version}}", "-o", "CHANGELOG.md"]
 consolidate-commits = true
 pre-release-replacements = [
-    { file = "src/main.rs", search = "Hello, [a-z0-9\\.-]+", replace = "Hello, {{version}}" },
+    { file = "src/main.rs", search = "Hello, [a-z0-9\\.-]+", replace = "Hello, v{{version}}" },
 ]
