@@ -2,13 +2,25 @@
 
 All notable changes to this project will be documented in this file.
 
-## [[0.1.1-alpha.7](https://github.com/Gaweringo/gh-release-test/compare/v0.1.1-alpha.6...0.1.1-alpha.7)] - 2022-12-03
+## [[0.1.1-alpha.8](https://github.com/Gaweringo/gh-release-test/compare/v0.1.1-alpha.7...0.1.1-alpha.8)] - 2022-12-03
 
-[466417f](https://github.com/Gaweringo/gh-release-test/commit/466417f86826dfa74e8cb3cea791379b1b9f246c)...[2af44a6](https://github.com/Gaweringo/gh-release-test/commit/2af44a62ea8cd8ba07ab1a0fabf43146c8e7a43f)
+[f741b74](https://github.com/Gaweringo/gh-release-test/commit/f741b74e834b3c15271139c8b28054e83a80c644)...[b74951b](https://github.com/Gaweringo/gh-release-test/commit/b74951b3bf4ddc2d4121d6acb02e948c3fe76fa0)
+
+### Miscellaneous Tasks
+
+- Remove verbose output for cargo release hook ([b74951b](https://github.com/Gaweringo/gh-release-test/commit/b74951b3bf4ddc2d4121d6acb02e948c3fe76fa0))
+
+## [[0.1.1-alpha.7](https://github.com/Gaweringo/gh-release-test/compare/v0.1.1-alpha.6...v0.1.1-alpha.7)] - 2022-12-03
+
+[466417f](https://github.com/Gaweringo/gh-release-test/commit/466417f86826dfa74e8cb3cea791379b1b9f246c)...[f741b74](https://github.com/Gaweringo/gh-release-test/commit/f741b74e834b3c15271139c8b28054e83a80c644)
 
 ### Documentation
 
 - New for changelog ([2af44a6](https://github.com/Gaweringo/gh-release-test/commit/2af44a62ea8cd8ba07ab1a0fabf43146c8e7a43f))
+
+### Miscellaneous Tasks
+
+- Release ([f741b74](https://github.com/Gaweringo/gh-release-test/commit/f741b74e834b3c15271139c8b28054e83a80c644))
 
 ## [[0.1.1-alpha.6](https://github.com/Gaweringo/gh-release-test/compare/v0.1.1-alpha.5...v0.1.1-alpha.6)] - 2022-12-03
 
