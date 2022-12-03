@@ -24,14 +24,28 @@ jobs:
           # (Required) GitHub token for creating GitHub Releases.
           token: ${{ secrets.GITHUB_TOKEN }}
 
-  upload-assets:
-      runs-on: windows-latest
-      steps:
-        - uses: actions/checkout@v3
-        - uses: taiki-e/upload-rust-binary-action@v1
-          with:
-            # (required) Comma-separated list of binary names (non-extension portion of filename) to build and upload.
-            # Note that glob pattern is not supported yet.
-            bin: gh-release-test
-            # (required) GitHub token for uploading assets to GitHub Releases.
-            token: ${{ secrets.GITHUB_TOKEN }}
+  # upload-assets:
+  #     runs-on: windows-latest
+  #     steps:
+  #       - uses: actions/checkout@v3
+  #       - uses: taiki-e/upload-rust-binary-action@v1
+  #         with:
+  #           # (required) Comma-separated list of binary names (non-extension portion of filename) to build and upload.
+  #           # Note that glob pattern is not supported yet.
+  #           bin: gh-release-test
+  #           # (required) GitHub token for uploading assets to GitHub Releases.
+  #           token: ${{ secrets.GITHUB_TOKEN }}
+            
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Compile code
+      run: cargo build --release
+    - name: Upload binary
+      uses: actions/upload-release-asset@v1
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        file: target/release/time-for.exe
+        draft: false
+        name: my-binary-v1.0.0
