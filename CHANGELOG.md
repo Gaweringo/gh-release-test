@@ -2,9 +2,21 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.4.2-alpha.2] - 2022-12-03
+
+[0c3cb4e](https://github.com/Gaweringo/gh-release-test/commit/0c3cb4e0b8a5e95f1e4f5a18e088065d6f94b034)...[465aa71](https://github.com/Gaweringo/gh-release-test/commit/465aa714445fbc90c5b9df8c8eadd1bfbab5b383)
+
+### Ci
+
+- Use action-gh-release ([465aa71](https://github.com/Gaweringo/gh-release-test/commit/465aa714445fbc90c5b9df8c8eadd1bfbab5b383))
+
 ## [0.4.2-alpha.1] - 2022-12-03
 
-[aeb8c73](https://github.com/Gaweringo/gh-release-test/commit/aeb8c7324ed15d01b91ed9cc0837f934ba78807b)...[443e375](https://github.com/Gaweringo/gh-release-test/commit/443e37591bf8ed75be5e79609dea9f23343f62d0)
+[aeb8c73](https://github.com/Gaweringo/gh-release-test/commit/aeb8c7324ed15d01b91ed9cc0837f934ba78807b)...[0c3cb4e](https://github.com/Gaweringo/gh-release-test/commit/0c3cb4e0b8a5e95f1e4f5a18e088065d6f94b034)
+
+### Miscellaneous Tasks
+
+- Release ([0c3cb4e](https://github.com/Gaweringo/gh-release-test/commit/0c3cb4e0b8a5e95f1e4f5a18e088065d6f94b034))
 
 ### Ci
 
