@@ -2,13 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
-## [[0.1.1-alpha.3](https://github.com/Gaweringo/gh-release-test/compare/v0.1.1-alpha.2...0.1.1-alpha.3)] - 2022-12-03
+## [[0.1.1-alpha.3](https://github.com/Gaweringo/gh-release-test/compare/v0.1.1-alpha.2...v0.1.1-alpha.3)] - 2022-12-03
 
-[0f22915](https://github.com/Gaweringo/gh-release-test/commit/0f22915166b7bccaa9133e5b3990480dd4df0cfd)...[b87b25d](https://github.com/Gaweringo/gh-release-test/commit/b87b25d7c258b58d5a7745abd435eea634f57a30)
+[0f22915](https://github.com/Gaweringo/gh-release-test/commit/0f22915166b7bccaa9133e5b3990480dd4df0cfd)...[d10e82f](https://github.com/Gaweringo/gh-release-test/commit/d10e82f836fb8859d69fba7a224c23aa2025b00a)
 
 ### Features
 
 - Make main.rs update for prerelases ([b87b25d](https://github.com/Gaweringo/gh-release-test/commit/b87b25d7c258b58d5a7745abd435eea634f57a30))
+
+### Miscellaneous Tasks
+
+- Release ([d10e82f](https://github.com/Gaweringo/gh-release-test/commit/d10e82f836fb8859d69fba7a224c23aa2025b00a))
 
 ## [[0.1.1-alpha.2](https://github.com/Gaweringo/gh-release-test/compare/v0.1.1-alpha.1...v0.1.1-alpha.2)] - 2022-12-03
 
