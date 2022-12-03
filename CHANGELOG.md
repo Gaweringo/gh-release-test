@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [[0.1.1-alpha.4](https://github.com/Gaweringo/gh-release-test/compare/v0.1.1-alpha.3...v0.1.1-alpha.4)] - 2022-12-03
+
+[d10e82f](https://github.com/Gaweringo/gh-release-test/commit/d10e82f836fb8859d69fba7a224c23aa2025b00a)...[f90d4fa](https://github.com/Gaweringo/gh-release-test/commit/f90d4fa6fa2b70490ed8f0664d94f77fb3e2b438)
+
+### Miscellaneous Tasks
+
+- Release ([f90d4fa](https://github.com/Gaweringo/gh-release-test/commit/f90d4fa6fa2b70490ed8f0664d94f77fb3e2b438))
+
 ## [[0.1.1-alpha.3](https://github.com/Gaweringo/gh-release-test/compare/v0.1.1-alpha.2...v0.1.1-alpha.3)] - 2022-12-03
 
 [0f22915](https://github.com/Gaweringo/gh-release-test/commit/0f22915166b7bccaa9133e5b3990480dd4df0cfd)...[d10e82f](https://github.com/Gaweringo/gh-release-test/commit/d10e82f836fb8859d69fba7a224c23aa2025b00a)
