@@ -4,4 +4,4 @@ version = 3
 
 [[package]]
 name = "gh-release-test"
-version = "0.4.2-alpha.2"
+version = "0.4.2-alpha.3"

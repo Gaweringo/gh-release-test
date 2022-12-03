@@ -2,9 +2,21 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.4.2-alpha.3] - 2022-12-03
+
+[14fca94](https://github.com/Gaweringo/gh-release-test/commit/14fca94bc4a61c8e0761006d4bb16b6d4515da06)...[1b1b13c](https://github.com/Gaweringo/gh-release-test/commit/1b1b13c5ca7a66119c1e8eb2cee6214341c9a7dd)
+
+### Ci
+
+- Actually compile binary, and create scoop manifest ([1b1b13c](https://github.com/Gaweringo/gh-release-test/commit/1b1b13c5ca7a66119c1e8eb2cee6214341c9a7dd))
+
 ## [0.4.2-alpha.2] - 2022-12-03
 
-[0c3cb4e](https://github.com/Gaweringo/gh-release-test/commit/0c3cb4e0b8a5e95f1e4f5a18e088065d6f94b034)...[465aa71](https://github.com/Gaweringo/gh-release-test/commit/465aa714445fbc90c5b9df8c8eadd1bfbab5b383)
+[0c3cb4e](https://github.com/Gaweringo/gh-release-test/commit/0c3cb4e0b8a5e95f1e4f5a18e088065d6f94b034)...[14fca94](https://github.com/Gaweringo/gh-release-test/commit/14fca94bc4a61c8e0761006d4bb16b6d4515da06)
+
+### Miscellaneous Tasks
+
+- Release ([14fca94](https://github.com/Gaweringo/gh-release-test/commit/14fca94bc4a61c8e0761006d4bb16b6d4515da06))
 
 ### Ci
 
