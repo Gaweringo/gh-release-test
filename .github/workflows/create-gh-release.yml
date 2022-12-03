@@ -46,4 +46,4 @@ jobs:
       uses: softprops/action-gh-release@v1
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        files: target/release/time-for.exe
+        files: target/release/gh-release-test.exe
