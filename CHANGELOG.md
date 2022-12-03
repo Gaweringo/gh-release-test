@@ -2,9 +2,22 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.4.2-alpha.1] - 2022-12-03
+
+[aeb8c73](https://github.com/Gaweringo/gh-release-test/commit/aeb8c7324ed15d01b91ed9cc0837f934ba78807b)...[443e375](https://github.com/Gaweringo/gh-release-test/commit/443e37591bf8ed75be5e79609dea9f23343f62d0)
+
+### Ci
+
+- Use ChatGPTs binary creation and upload action ([6fed3c7](https://github.com/Gaweringo/gh-release-test/commit/6fed3c7dea711c23e1b7f1d691b4f464d6cfa70c))
+- Change from ubuntu to windows build ([443e375](https://github.com/Gaweringo/gh-release-test/commit/443e37591bf8ed75be5e79609dea9f23343f62d0))
+
 ## [0.4.1] - 2022-12-03
 
-[aec258a](https://github.com/Gaweringo/gh-release-test/commit/aec258a7f21c9f72c5bdd3bbcb78b5bb6cbb0e67)...[1b4b83f](https://github.com/Gaweringo/gh-release-test/commit/1b4b83f24a738cc039b3e488f4866112309e7099)
+[aec258a](https://github.com/Gaweringo/gh-release-test/commit/aec258a7f21c9f72c5bdd3bbcb78b5bb6cbb0e67)...[aeb8c73](https://github.com/Gaweringo/gh-release-test/commit/aeb8c7324ed15d01b91ed9cc0837f934ba78807b)
+
+### Miscellaneous Tasks
+
+- Release ([aeb8c73](https://github.com/Gaweringo/gh-release-test/commit/aeb8c7324ed15d01b91ed9cc0837f934ba78807b))
 
 ### Ci
 
