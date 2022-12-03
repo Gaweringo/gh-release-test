@@ -9,6 +9,7 @@ release-dry LEVEL:
 release LEVEL:
     cargo release version {{LEVEL}} -x --no-confirm
     cargo release hook -x --no-confirm
+    cargo release replace -x --no-confirm
     git add .
     cargo release commit -x --no-confirm
     cargo release tag -x --no-confirm
