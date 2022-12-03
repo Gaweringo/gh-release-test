@@ -1,9 +1,9 @@
 {
-	"license": "MIT",
-	"depends": "",
-	"homepage": "https://github.com/Gaweringo/gh-release-test",
-	"url": "https://github.com/Gaweringo/gh-release-test/releases/download/v0.4.2-alpha.1/gh-release-test.exe",
-	"extract_dir": "",
-	"version": "0.4.2-alpha.1",
-	"autoupdate": "https://github.com/Gaweringo/time-for/releases/download/v$version/time-for.exe"
+    "license": "MIT",
+    "homepage": "https://github.com/Gaweringo/gh-release-test",
+    "url": "https://github.com/Gaweringo/gh-release-test/releases/download/v0.4.2-alpha.5/gh-release-test.exe",
+    "bin": "gh-release-test.exe",
+    "version": "0.4.2-alpha.1",
+    "checkver": "github",
+    "autoupdate": "https://github.com/Gaweringo/time-for/releases/download/v$version/gh-release-test.exe"
 }
