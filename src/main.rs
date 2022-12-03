@@ -1,4 +1,4 @@
 fn main() {
-    println!("Hello, v0.1.1-alpha.10!");
+    println!("Hello, v0.2.0!");
 }
 // it works

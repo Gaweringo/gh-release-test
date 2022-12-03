@@ -2,13 +2,22 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.2.0] - 2022-12-03
+
+[432bfef](https://github.com/Gaweringo/gh-release-test/commit/432bfef06f139aba1c2b4c515c175b7371be8685)...[84d8963](https://github.com/Gaweringo/gh-release-test/commit/84d8963e8ec2db51f4e27a56f8df9ccd3500f78f)
+
+### Documentation
+
+- Release creating works now ([84d8963](https://github.com/Gaweringo/gh-release-test/commit/84d8963e8ec2db51f4e27a56f8df9ccd3500f78f))
+
 ## [0.1.1-alpha.10] - 2022-12-03
 
-[f3cd934](https://github.com/Gaweringo/gh-release-test/commit/f3cd934d08de27cae87f1f323bfba5847703eeb7)...[236614e](https://github.com/Gaweringo/gh-release-test/commit/236614ed42edceaa6e4c20ec853241cf4b357364)
+[f3cd934](https://github.com/Gaweringo/gh-release-test/commit/f3cd934d08de27cae87f1f323bfba5847703eeb7)...[432bfef](https://github.com/Gaweringo/gh-release-test/commit/432bfef06f139aba1c2b4c515c175b7371be8685)
 
 ### Miscellaneous Tasks
 
 - Remove link from version in changelog ([236614e](https://github.com/Gaweringo/gh-release-test/commit/236614ed42edceaa6e4c20ec853241cf4b357364))
+- Release ([432bfef](https://github.com/Gaweringo/gh-release-test/commit/432bfef06f139aba1c2b4c515c175b7371be8685))
 
 ## [0.1.1-alpha.9] - 2022-12-03
 
