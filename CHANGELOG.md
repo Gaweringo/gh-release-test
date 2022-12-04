@@ -2,13 +2,22 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.5.0] - 2022-12-04
+
+[03dc117](https://github.com/Gaweringo/gh-release-test/commit/03dc1172cb919c8db74a8bc4ef28ece2e3c5c896)...[af5f319](https://github.com/Gaweringo/gh-release-test/commit/af5f3192bd2709920fbaaa3ae518348df10946d4)
+
+### Features
+
+- Change comment ([af5f319](https://github.com/Gaweringo/gh-release-test/commit/af5f3192bd2709920fbaaa3ae518348df10946d4))
+
 ## [0.4.2] - 2022-12-04
 
-[d7b5375](https://github.com/Gaweringo/gh-release-test/commit/d7b53750af5a8cf0a8621d713431ca0b7193e194)...[d88dc78](https://github.com/Gaweringo/gh-release-test/commit/d88dc7821b608b6bec1ef5ba53e6949b2b417632)
+[d7b5375](https://github.com/Gaweringo/gh-release-test/commit/d7b53750af5a8cf0a8621d713431ca0b7193e194)...[03dc117](https://github.com/Gaweringo/gh-release-test/commit/03dc1172cb919c8db74a8bc4ef28ece2e3c5c896)
 
 ### Miscellaneous Tasks
 
 - Change some scoop manifest stuff ([d88dc78](https://github.com/Gaweringo/gh-release-test/commit/d88dc7821b608b6bec1ef5ba53e6949b2b417632))
+- Release ([03dc117](https://github.com/Gaweringo/gh-release-test/commit/03dc1172cb919c8db74a8bc4ef28ece2e3c5c896))
 
 ## [0.4.2-alpha.6] - 2022-12-03
 
